@@ -2,7 +2,7 @@
 This repo contains the source code and datasets of ICML' 2022 paper: Role-based Multiplex Network Embedding.
 
 ## Run
-To train RMNE:
+To train RMNE-plus:
 
     >> python main.py 
 
